@@ -1,6 +1,9 @@
 ## What is this?
 
-Just you wait folks!
+A restaurant reviewing site using node.  View the live demo at https://restaurant-reviewer-1.herokuapp.com/
+
+Add, review, favorite, search, and view stores
+Register/login to create a store or leave a review
 
 ## Sample Data
 
@@ -20,7 +23,6 @@ That will populate 16 stores with 3 authors and 41 reviews. The logins for the a
 
 |Name|Email (login)|Password|
 |---|---|---|
-|Wes Bos|wes@example.com|wes|
 |Debbie Downer|debbie@example.com|debbie|
 |Beau|beau@example.com|beau|
 
